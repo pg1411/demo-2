@@ -6,8 +6,12 @@ public class hello{
             this.name = name;
             this.email=email;
         }
+        public hello(){
+            //default constructor
+        }
         System.out.println("Hello, world!");
         //add constructor
         //add args constructor if needed
+        
     }
 }
