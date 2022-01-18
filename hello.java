@@ -4,5 +4,6 @@ public class hello{
         private String email;
         System.out.println("Hello, world!");
         //add constructor
+        //add args constructor if needed
     }
 }
